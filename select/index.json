@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "乃木坂46 『きっかけ』",
+  "base_artist": "乃木坂46",
+  "createdAt": "2026-02-07T01:06:22.356389Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "きっかけ",
+      "artist": "乃木坂46",
+      "has_synced": true,
+      "path": "select/01_きっかけ_乃木坂46.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "きっかけ",
+      "artist": "Nogizaka46",
+      "has_synced": true,
+      "path": "select/02_きっかけ_Nogizaka46.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "01.きっかけ",
+      "artist": "てふてふ。",
+      "has_synced": true,
+      "path": "select/03_01.きっかけ_てふてふ。.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "きっかけ",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_01_きっかけ_乃木坂46.txt"
+    }
+  ]
+}
